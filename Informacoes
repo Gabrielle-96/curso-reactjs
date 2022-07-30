@@ -4,3 +4,6 @@ Comentar no JS:
 
 Comentar no HTML:
 usa-se <!-- para iniciar e dps -->! para finalizar o bloco ou linha que se deseja comentar.
+
+Funções JS
+lista.indexOf() / lista.shift() / lista.push()
